@@ -8,6 +8,8 @@ To try it out check out the [live version](https://andycloke.github.io/verb-mast
 
 To see the code, check out the [development repo](https://github.com/andycloke/verb-master-development).
 
+Here's a [blog post](https://andycloke.github.io/Building-Verb-Master/) detailing why I made it and some of the design decisions.
+
 ## Built using
 
 - React
@@ -18,4 +20,3 @@ To see the code, check out the [development repo](https://github.com/andycloke/v
 
 - PostCSS
 
-[Blog post detailing why I made it, some of the design/ technical decisions](https://andycloke.github.io/Building-Verb-Master/).
