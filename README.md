@@ -2,7 +2,7 @@
 
 A React app for learning Spanish verb conjugations.
 
-![Verb Master](https://andycloke.github.io/images/verb-master-usage.gif)
+![Verb Master](https://github.com/andycloke/verb-master/images/verb-master-usage.gif)
 
 To try it out check out the [live version](https://andycloke.github.io/verb-master/).
 
